@@ -1,14 +1,21 @@
 # Power-BI
 This repository contains links to my Power BI reports hosted on OneDrive.
 
-Project 1: Cricket Match Analysis
+Project 1: Cricket Match Player Stats Dashboard
 
-Description: This Dashboard analyzes the Player Statistics.
+Description: A detailed Power BI dashboard visualizing player statistics for two 2024 cricket matches with match-wise filters, performance metrics, and role-based insights.
 
-🔗 [View Power BI Report](https://1drv.ms/u/c/2fa94411798eec47/EeQmAc-Gp_tAiqmml-jcClABV87P_ZdJFhdMhBp7Dt4RHQ?e=Vbg8Bg)
 
-Project 2: College Dashboard 
+🔗 [View Power BI Report](https://1drv.ms/u/c/2fa94411798eec47/EeQmAc-Gp_tAiqmml-jcClABV87P_ZdJFhdMhBp7Dt4RHQ)
 
-Description: Dashboard showing Student Attendance, CGPA trends and Campus Placements.
+Project 2: College Placement and Performance Dashboard 
 
-🔗 [View Power BI Report](https://1drv.ms/u/c/2fa94411798eec47/EZCyiOqkbXJAkAxq_etJ8h8BPPiYoVGaXi1cVYITgCW-wg?e=OjTPXa)
+Description: An interactive Power BI dashboard exploring college student performance and placement insights with department-wise breakdowns, academic metrics, and year filters.
+
+🔗 [View Power BI Report](https://1drv.ms/u/c/2fa94411798eec47/EZCyiOqkbXJAkAxq_etJ8h8BPPiYoVGaXi1cVYITgCW-wg)
+
+Project 2: Retail Sales
+
+Description: An interactive Power BI dashboard analyzing 2023 retail sales and customer insights with KPIs, demographic breakdowns, category-wise trends, and monthly filters.
+
+[View Power BI Report](https://1drv.ms/u/c/2fa94411798eec47/EaSTekTUEsxJioAec5zqL3sB6J8Liib0jlpq4Bdog3-YMQ)
