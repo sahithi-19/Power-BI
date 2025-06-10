@@ -12,10 +12,10 @@ Project 2: College Placement and Performance Dashboard
 
 Description: An interactive Power BI dashboard exploring college student performance and placement insights with department-wise breakdowns, academic metrics, and year filters.
 
-🔗 [View Power BI Report](https://1drv.ms/u/c/2fa94411798eec47/EZCyiOqkbXJAkAxq_etJ8h8BPPiYoVGaXi1cVYITgCW-wg)
+🔗 [View Pohttps://github.com/sahithi-19/Power-BI/edit/main/README.mdwer BI Report](https://1drv.ms/u/c/2fa94411798eec47/EZCyiOqkbXJAkAxq_etJ8h8BPPiYoVGaXi1cVYITgCW-wg)
 
 Project 2: Retail Sales Dashboard
 
 Description: An interactive Power BI dashboard analyzing 2023 retail sales and customer insights with KPIs, demographic breakdowns, category-wise trends, and monthly filters.
 
-[View Power BI Report](https://1drv.ms/u/c/2fa94411798eec47/EaSTekTUEsxJioAec5zqL3sB6J8Liib0jlpq4Bdog3-YMQ)
+🔗 [View Power BI Report](https://1drv.ms/u/c/2fa94411798eec47/EaSTekTUEsxJioAec5zqL3sB6J8Liib0jlpq4Bdog3-YMQ)
