@@ -14,7 +14,7 @@ Description: An interactive Power BI dashboard exploring college student perform
 
 🔗 [View Power BI Report](https://1drv.ms/u/c/2fa94411798eec47/EZCyiOqkbXJAkAxq_etJ8h8BPPiYoVGaXi1cVYITgCW-wg)
 
-Project 2: Retail Sales
+Project 2: Retail Sales Dashboard
 
 Description: An interactive Power BI dashboard analyzing 2023 retail sales and customer insights with KPIs, demographic breakdowns, category-wise trends, and monthly filters.
 
